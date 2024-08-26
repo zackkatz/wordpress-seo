@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "af5dab8de0c504f84bcbc71f489a6566",
+    "content-hash": "e85dc9c5380089d4bbb45ea88f1e7d4d",
     "packages": [
         {
             "name": "composer/installers",
@@ -1061,19 +1061,19 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/JetBrains/phpstorm-stubs.git",
-                "reference": "5686f9ceebde3d9338bea53b78d70ebde5fb5710"
+                "reference": "4fa519af4eb414bce8139f5bfd5a531140a37eb0"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/JetBrains/phpstorm-stubs/zipball/5686f9ceebde3d9338bea53b78d70ebde5fb5710",
-                "reference": "5686f9ceebde3d9338bea53b78d70ebde5fb5710",
+                "url": "https://api.github.com/repos/JetBrains/phpstorm-stubs/zipball/4fa519af4eb414bce8139f5bfd5a531140a37eb0",
+                "reference": "4fa519af4eb414bce8139f5bfd5a531140a37eb0",
                 "shasum": ""
             },
             "require-dev": {
-                "friendsofphp/php-cs-fixer": "v3.46.0",
-                "nikic/php-parser": "v5.0.0",
-                "phpdocumentor/reflection-docblock": "5.3.0",
-                "phpunit/phpunit": "10.5.5"
+                "friendsofphp/php-cs-fixer": "v3.61.1",
+                "nikic/php-parser": "v5.1.0",
+                "phpdocumentor/reflection-docblock": "5.4.1",
+                "phpunit/phpunit": "11.3.0"
             },
             "default-branch": true,
             "type": "library",
@@ -1101,7 +1101,7 @@
             "support": {
                 "source": "https://github.com/JetBrains/phpstorm-stubs/tree/master"
             },
-            "time": "2024-07-24T19:11:43+00:00"
+            "time": "2024-08-26T14:10:31+00:00"
         },
         {
             "name": "league/oauth2-client",
@@ -2809,16 +2809,16 @@
         },
         {
             "name": "scssphp/scssphp",
-            "version": "v1.12.1",
+            "version": "v1.13.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/scssphp/scssphp.git",
-                "reference": "394ed1e960138710a60d035c1a85d43d0bf0faeb"
+                "reference": "63d1157457e5554edf00b0c1fabab4c1511d2520"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/scssphp/scssphp/zipball/394ed1e960138710a60d035c1a85d43d0bf0faeb",
-                "reference": "394ed1e960138710a60d035c1a85d43d0bf0faeb",
+                "url": "https://api.github.com/repos/scssphp/scssphp/zipball/63d1157457e5554edf00b0c1fabab4c1511d2520",
+                "reference": "63d1157457e5554edf00b0c1fabab4c1511d2520",
                 "shasum": ""
             },
             "require": {
@@ -2883,9 +2883,9 @@
             ],
             "support": {
                 "issues": "https://github.com/scssphp/scssphp/issues",
-                "source": "https://github.com/scssphp/scssphp/tree/v1.12.1"
+                "source": "https://github.com/scssphp/scssphp/tree/v1.13.0"
             },
-            "time": "2024-01-13T12:36:40+00:00"
+            "time": "2024-08-17T21:02:11+00:00"
         },
         {
             "name": "sebastian/code-unit-reverse-lookup",
@@ -4705,16 +4705,16 @@
         },
         {
             "name": "trustedlogin/client",
-            "version": "dev-develop",
+            "version": "dev-main",
             "source": {
                 "type": "git",
                 "url": "https://github.com/trustedlogin/client.git",
-                "reference": "0c6ea4a44b489e7d5e8d19874c0c17d8a6a0b9e0"
+                "reference": "b913058ae57b512a7766f449ab8d55952500fe72"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/trustedlogin/client/zipball/0c6ea4a44b489e7d5e8d19874c0c17d8a6a0b9e0",
-                "reference": "0c6ea4a44b489e7d5e8d19874c0c17d8a6a0b9e0",
+                "url": "https://api.github.com/repos/trustedlogin/client/zipball/b913058ae57b512a7766f449ab8d55952500fe72",
+                "reference": "b913058ae57b512a7766f449ab8d55952500fe72",
                 "shasum": ""
             },
             "require-dev": {
@@ -4729,6 +4729,7 @@
                 "wp-coding-standards/wpcs": "^3.0",
                 "yoast/phpunit-polyfills": "^1.0.0"
             },
+            "default-branch": true,
             "bin": [
                 "bin/build-sass"
             ],
@@ -4758,9 +4759,9 @@
             ],
             "support": {
                 "issues": "https://github.com/trustedlogin/client/issues",
-                "source": "https://github.com/trustedlogin/client/tree/develop"
+                "source": "https://github.com/trustedlogin/client/tree/v1.9.0"
             },
-            "time": "2024-08-06T19:48:04+00:00"
+            "time": "2024-08-26T01:13:42+00:00"
         },
         {
             "name": "wp-coding-standards/wpcs",
