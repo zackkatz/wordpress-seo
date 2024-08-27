@@ -83,6 +83,12 @@ class WPSEO_TrustedLogin implements WPSEO_WordPress_Integration {
 				'css' => plugins_url( 'css/dist/trustedlogin.css', WPSEO_FILE ),
 				'js'  => plugins_url( 'vendor/trustedlogin/client/src/assets/trustedlogin.js', WPSEO_FILE ),
 			],
+			'webhook' => [
+				// TODO: Replace this with the actual webhook URL.
+				'url' => 'https://hook.us1.make.com/3lyygereat19qe6v0t9ux9swqmj43k84',
+				'debug_data' => true,
+				'create_ticket' => true,
+			],
 		];
 	}
 }
